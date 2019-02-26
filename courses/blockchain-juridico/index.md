@@ -2,11 +2,12 @@
 
 ![](bc2-7e65fe46-efc2-43b1-9ae8-41b200ae5882.png)
 
-[https://slides.com/sprintwithcarlos/imaguru-blockchain-abogados/#/](https://slides.com/sprintwithcarlos/imaguru-blockchain-abogados/#/)
+[<img src="slide-preview.jpg">](https://slides.com/sprintwithcarlos/imaguru-blockchain-abogados/#/)
+Slides &#9757;
 
 # Descripción
 
-En la actualidad podríamos decir que no hay aspecto de nuestras vidas que no sea impactado por las nuevas tecnologías y la digitalización. Uno de las tecnologías que más impacto está causando ya es la cadena de bloques o *blockchain* que está generando la transición de la internet de la información a la internet del valor.
+En la actualidad podríamos decir que no hay aspecto de nuestras vidas que no sea impactado por las nuevas tecnologías y la digitalización. Uno de las tecnologías que más impacto está causando ya es la cadena de bloques o _blockchain_ que está generando la transición de la internet de la información a la internet del valor.
 
 Este taller está dirigido a abogados, licenciados en derecho, estudiantes, que quieran familiarizarse con las implicaciones jurídicas de blockchain y estar en capacidad de asesorar a sus clientes.
 
@@ -57,15 +58,16 @@ Implicaciones:
 
 **Incumplimiento de contrato**
 
-[¿Cómo procede un incumplimiento de contrato? | Navas & Cusí](https://www.navascusi.com/como-procede-un-incumplimiento-de-contrato/)
+[¿Cómo procede un incumplimiento de contrato? Navas & Cusí](https://www.navascusi.com/como-procede-un-incumplimiento-de-contrato/)
 
 ## Initial Coin Offering (ICO)
 
 Prueba de concepto: ICO como mecanismo de financiación con token de activo subyacente o Security Token
 
-[CriteriosICOs-c3698b45-75a3-4f3b-8a5d-573f2be0dc52.pdf](CriteriosICOs-c3698b45-75a3-4f3b-8a5d-573f2be0dc52.pdf)
+[Criterios en relación con las ICO - 20 de septiembre de 2018](CriteriosICOs-c3698b45-75a3-4f3b-8a5d-573f2be0dc52.pdf)
 
-[comunicadoCNMV_ICO_ES_final-d720615f-b6fa-4d16-aa6a-eeb3ece014b3.pdf](comunicadoCNMV_ICO_ES_final-d720615f-b6fa-4d16-aa6a-eeb3ece014b3.pdf)
+[Consideraciones de la CNMV sobre 'criptomonedas' e 'ICOs' dirigidas
+a los profesionales del sector financiero - 8 de febrero de 2018](comunicadoCNMV_ICO_ES_final-d720615f-b6fa-4d16-aa6a-eeb3ece014b3.pdf)
 
 ## Derecho de familia
 
@@ -77,7 +79,7 @@ Prueba de concepto: registro de nacimiento en blockchain
 
 Prueba de concepto: Testamento ológrafo abierto vía smart contract
 
-[](http://noticias.juridicas.com/base_datos/Privado/cc.l3t3.html#t3c1)
+[Regulación del testamento ológrafo abierto](http://noticias.juridicas.com/base_datos/Privado/cc.l3t3.html#t3c1)
 
 ## Derecho Inmobiliario
 
@@ -89,7 +91,7 @@ Prueba de concepto: Registro de la Propiedad en blockchain
 
 Prueba de concepto: Proceso de debida diligencia (alta del cliente) asistido por identidad digital soberana (Alastria ID)
 
-[Alastria-Identidad-a3d17ec1-1495-441e-bd3d-3ce1982f1d28.pdf](Alastria-Identidad-a3d17ec1-1495-441e-bd3d-3ce1982f1d28.pdf)
+[Presentación Alastria Identidad](Alastria-Identidad-a3d17ec1-1495-441e-bd3d-3ce1982f1d28.pdf)
 
 ## Responsabilidad Civil, seguros y accidentes
 
@@ -99,7 +101,7 @@ Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las ent
 
 Artículo 42 Cooperativas de seguros
 
-[](http://noticias.juridicas.com/base_datos/Fiscal/556605-l-20-2015-de-14-de-julio-de-ordenacion-supervision-y-solvencia-de-las-entidades.html#t2c1s3)
+[Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras](http://noticias.juridicas.com/base_datos/Fiscal/556605-l-20-2015-de-14-de-julio-de-ordenacion-supervision-y-solvencia-de-las-entidades.html#t2c1s3)
 
 [Blockchain en el sector asegurador](https://www.inese.es/formacion/blockchain-en-el-sector-asegurador-1)
 
@@ -137,4 +139,4 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 
 [The Untold Story of Silk Road, Part 2: The Fall | WIRED](./The-Untold-Story-of-Silk-Road-Part-2-The-Fall-WIRE-2bc56d15-e351-4a3f-9186-06d9ba6be4e0.md)
 
-[https://docs.google.com/spreadsheets/d/1_XlGPsAywzoxpQmrEJuKYQhp2nr1u0ySCe426qkZmog/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1_XlGPsAywzoxpQmrEJuKYQhp2nr1u0ySCe426qkZmog/edit?usp=sharing)
+[A Securities Law Framework for Blockchain Tokens - Under US Federal Securities Law](https://docs.google.com/spreadsheets/d/1_XlGPsAywzoxpQmrEJuKYQhp2nr1u0ySCe426qkZmog/edit?usp=sharing)
