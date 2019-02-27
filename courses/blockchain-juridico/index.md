@@ -139,9 +139,7 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 [2019 Global Legal Hackathon](https://globallegalhackathon.com/){:target="\_blank"}
 
 <p align="center">
-<a href="https://www.amazon.com/Tomorrows-Lawyers-Introduction-Your-Future/dp/0198796633/ref=sr_1_1?keywords=tomorrow+lawyers&qid=1551226180&s=gateway&sr=8-1)" target="_blank">
-
-<img src="-cb8aace3-caf6-40b2-9a74-48542029e185untitled"></a></p>
+<a href="https://www.amazon.com/Tomorrows-Lawyers-Introduction-Your-Future/dp/0198796633/ref=sr_1_1?keywords=tomorrow+lawyers&qid=1551226180&s=gateway&sr=8-1)" target="_blank"><img src="-cb8aace3-caf6-40b2-9a74-48542029e185untitled"></a></p>
 
 ![](rgpd.jpg)
 
