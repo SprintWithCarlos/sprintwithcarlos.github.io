@@ -53,7 +53,8 @@ Definición de **Nick Szabo** - Diferencias entre Web Code / Dry Code
 Implicaciones:
 
 **Warranties and representations**
-[<iframe src="https://traduccionjuridica.es/las-representations-warranties/"></iframe>](https://traduccionjuridica.es/las-representations-warranties/){:target="\_blank"}
+
+[Qué son las Representations & Warranties - Traducción Jurídica](https://traduccionjuridica.es/las-representations-warranties/){:target="\_blank"}
 
 **Incumplimiento de contrato**
 
