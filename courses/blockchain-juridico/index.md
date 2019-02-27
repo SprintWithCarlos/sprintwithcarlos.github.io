@@ -156,7 +156,7 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 
 [Criptomonedas y 33 proyectos blockchain asesorados por CNMV](./Criptomonedas-y-33-proyectos-blockchain-asesorados-8379149d-6a1e-43f0-a09e-acd8d83e7e0d.md){:target="\_blank"}
 
-![](https://img.nh-hotels.net/landing_pages-slider_landing_fastpass.jpg?crop=2850:855;0,468&resize=1366:410&output-quality=70&resize=2000:*&composite-to=center,center|2000:600&background-color=white)
+![](https://img.nh-hotels.net/landing_pages-slider_landing_fastpass.jpg)
 
 [NH Hotel Group presenta FASTPASS: Checkout automático](https://www.nh-hoteles.es/experiencia/fast-pass){:target="\_blank"}
 
