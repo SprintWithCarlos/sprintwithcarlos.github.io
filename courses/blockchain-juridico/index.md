@@ -156,6 +156,13 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 
 [Criptomonedas y 33 proyectos blockchain asesorados por CNMV](./Criptomonedas-y-33-proyectos-blockchain-asesorados-8379149d-6a1e-43f0-a09e-acd8d83e7e0d.md){:target="\_blank"}
 
+![](https://img.nh-hotels.net/landing_pages-slider_landing_fastpass.jpg?crop=2850:855;0,468&resize=1366:410&output-quality=70&resize=2000:*&composite-to=center,center|2000:600&background-color=white)
+
+[NH Hotel Group presenta FASTPASS: Checkout automático](https://www.nh-hoteles.es/experiencia/fast-pass){:target="\_blank"}
+
+![](ethereum.png)
+[Ethereum Competitors: Guide to the Alternative Smart Contract Platforms](https://blockonomi.com/ethereum-competitors/){:target="\_blank"}
+
 ![](silk_road_tablet_H-3a170121-fda3-4e5e-be5d-18bfcda22297.jpg)
 
 [The Untold Story of Silk Road, Part 1 - WIRED](./The-Untold-Story-of-Silk-Road-Part-1-WIRED-4bc62011-3449-44cd-933a-a8310b189935.md){:target="\_blank"}
