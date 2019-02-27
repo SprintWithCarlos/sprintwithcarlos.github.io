@@ -49,6 +49,7 @@ El objetivo de este día es analizar cómo se han adaptado las principales insti
 Definición de **Nick Szabo** - Diferencias entre Web Code / Dry Code
 
 ![](smart.png)
+
 [Wet code and dry](https://unenumerated.blogspot.com/2006/11/wet-code-and-dry.html){:target="\_blank"}
 
 Implicaciones:
@@ -64,7 +65,9 @@ Implicaciones:
 ## Initial Coin Offering (ICO)
 
 Prueba de concepto: ICO como mecanismo de financiación con token de activo subyacente o Security Token
+
 ![](https://d2eb79appvasri.cloudfront.net/imagenes_noticias/5c232aad97857.jpg)
+
 [Criterios en relación con las ICO - 20 de septiembre de 2018](CriteriosICOs-c3698b45-75a3-4f3b-8a5d-573f2be0dc52.pdf){:target="\_blank"}
 
 [Consideraciones de la CNMV sobre 'criptomonedas' e 'ICOs' dirigidas
@@ -80,18 +83,21 @@ Prueba de concepto: registro de nacimiento en blockchain
 
 Prueba de concepto: Testamento ológrafo abierto vía smart contract
 ![](testamento.png)
+
 [Regulación del testamento ológrafo abierto](http://noticias.juridicas.com/base_datos/Privado/cc.l3t3.html#t3c1){:target="\_blank"}
 
 ## Derecho Inmobiliario
 
 Prueba de concepto: Registro de la Propiedad en blockchain
 ![](registro.png)
+
 ["Los registradores de la propiedad no tememos la tecnología blockchain"](https://www.blockchaineconomia.es/registradores-de-la-propiedad-blockchain/){:target="\_blank"}
 
 ## Derecho Bancario
 
 Prueba de concepto: Proceso de debida diligencia (alta del cliente) asistido por identidad digital soberana (Alastria ID)
 ![](alastria.png)
+
 [Presentación Alastria Identidad](Alastria-Identidad-a3d17ec1-1495-441e-bd3d-3ce1982f1d28.pdf){:target="\_blank"}
 
 ## Responsabilidad Civil, seguros y accidentes
@@ -110,12 +116,14 @@ Artículo 42 Cooperativas de seguros
 
 Prueba de concepto: blockchain para la "Gig Economy" ("Uberización")
 ![](https://www.elboletin.com/fotos/1/105552_OES_36832___22B5412.jpg)
+
 [España, a la cabeza de Europa en trabajadores de plataformas digitales](https://www.elboletin.com/noticia/165089/tecnologia/espana-a-la-cabeza-de-europa-en-trabajadores-de-plataformas-digitales.html){:target="\_blank"}
 
 ## PYME
 
 Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 ![](aragon.png)
+
 [Aragon](https://aragon.org/){:target="\_blank"}
 
 # Recursos
@@ -123,29 +131,37 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 ## LegalTech
 
 ![](clerky.png)
+
 [Clerky - The easiest way for startups to get legal paperwork done safely.](https://www.clerky.com/){:target="\_blank"}
 
 ![](glh.png)
+
 [2019 Global Legal Hackathon](https://globallegalhackathon.com/){:target="\_blank"}
 
 [<img src="-cb8aace3-caf6-40b2-9a74-48542029e185untitled">](https://www.amazon.com/Tomorrows-Lawyers-Introduction-Your-Future/dp/0198796633/ref=sr_1_1?keywords=tomorrow+lawyers&qid=1551226180&s=gateway&sr=8-1){:target="\_blank"}
 
 ![](rgpd.jpg)
+
 [Primeras sanciones en aplicación del RGPD en Portugal](https://www.garrigues.com/es_ES/garrigues-digital/primeras-sanciones-en-aplicacion-del-rgpd-en-portugal){:target="\_blank"}
 
 ![](flixxo.png)
+
 [Flixxo - Community based video distribution.](https://flixxo.com/#/){:target="\_blank"}
 
 ![](https://www.ecestaticos.com/imagestatic/clipping/2f3/28e/2f328ef14cd42d02835d6c2164ea998e/imagen-sin-titulo.jpg?mtime=1550526461)
+
 [Pensiones: El Pacto de Toledo abre la puerta a que los robots financien las pensiones](./Pensiones-El-Pacto-de-Toledo-abre-la-puerta-a-que--607c7377-bef0-42db-8231-746b5791e83e.md){:target="\_blank"}
 
 ![](CNMV-y-bandera-UE-0e960492-67ef-4857-be44-56b69dfb54f2.jpg)
+
 [Criptomonedas y 33 proyectos blockchain asesorados por CNMV](./Criptomonedas-y-33-proyectos-blockchain-asesorados-8379149d-6a1e-43f0-a09e-acd8d83e7e0d.md){:target="\_blank"}
 
 ![](silk_road_tablet_H-3a170121-fda3-4e5e-be5d-18bfcda22297.jpg)
+
 [The Untold Story of Silk Road, Part 1 - WIRED](./The-Untold-Story-of-Silk-Road-Part-1-WIRED-4bc62011-3449-44cd-933a-a8310b189935.md){:target="\_blank"}
 
 ![](silk_road_tablet_H-4d5b7a19-bac1-40de-b9a5-9ffc294d0ad2.jpg)
+
 [The Untold Story of Silk Road, Part 2: The Fall - WIRED](./The-Untold-Story-of-Silk-Road-Part-2-The-Fall-WIRE-2bc56d15-e351-4a3f-9186-06d9ba6be4e0.md){:target="\_blank"}
 
 [A Securities Law Framework for Blockchain Tokens - Under US Federal Securities Law](https://docs.google.com/spreadsheets/d/1_XlGPsAywzoxpQmrEJuKYQhp2nr1u0ySCe426qkZmog/edit?usp=sharing){:target="\_blank"}
