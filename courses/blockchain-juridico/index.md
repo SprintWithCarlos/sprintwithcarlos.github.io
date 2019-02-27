@@ -138,7 +138,7 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 
 [2019 Global Legal Hackathon](https://globallegalhackathon.com/){:target="\_blank"}
 
-[<img src="-cb8aace3-caf6-40b2-9a74-48542029e185untitled">](https://www.amazon.com/Tomorrows-Lawyers-Introduction-Your-Future/dp/0198796633/ref=sr_1_1?keywords=tomorrow+lawyers&qid=1551226180&s=gateway&sr=8-1){:target="\_blank"}
+[<p align="center"><img src="-cb8aace3-caf6-40b2-9a74-48542029e185untitled"></p>](https://www.amazon.com/Tomorrows-Lawyers-Introduction-Your-Future/dp/0198796633/ref=sr_1_1?keywords=tomorrow+lawyers&qid=1551226180&s=gateway&sr=8-1){:target="\_blank"}
 
 ![](rgpd.jpg)
 
@@ -152,7 +152,9 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 
 [Pensiones: El Pacto de Toledo abre la puerta a que los robots financien las pensiones](./Pensiones-El-Pacto-de-Toledo-abre-la-puerta-a-que--607c7377-bef0-42db-8231-746b5791e83e.md){:target="\_blank"}
 
-![](CNMV-y-bandera-UE-0e960492-67ef-4857-be44-56b69dfb54f2.jpg)
+<p align="center">
+<img src="CNMV-y-bandera-UE-0e960492-67ef-4857-be44-56b69dfb54f2.jpg">
+</p>
 
 [Criptomonedas y 33 proyectos blockchain asesorados por CNMV](./Criptomonedas-y-33-proyectos-blockchain-asesorados-8379149d-6a1e-43f0-a09e-acd8d83e7e0d.md){:target="\_blank"}
 
@@ -163,7 +165,10 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 ![](ethereum.png)
 [Ethereum Competitors: Guide to the Alternative Smart Contract Platforms](https://blockonomi.com/ethereum-competitors/){:target="\_blank"}
 
-![](https://cdn-images-1.medium.com/max/800/1*krWy9mpDnh3UkYbawuPWzw.png)
+<p align="center">
+<img src="https://cdn-images-1.medium.com/max/800/1*krWy9mpDnh3UkYbawuPWzw.png">
+</p>
+
 [Rootstock — Smart Contracts on the Bitcoin Blockchain](https://medium.com/@CryptoIQ.ca/rootstock-smart-contracts-on-the-bitcoin-blockchain-e52b065421a8){:target="\_blank"}
 
 ![](oblb_new_logo-bbc4d24b-0aba-457b-955a-2fbcd56b9353.png)
