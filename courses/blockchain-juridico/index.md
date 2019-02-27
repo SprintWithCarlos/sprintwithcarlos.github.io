@@ -178,3 +178,5 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 [The Untold Story of Silk Road, Part 2: The Fall - WIRED](./The-Untold-Story-of-Silk-Road-Part-2-The-Fall-WIRE-2bc56d15-e351-4a3f-9186-06d9ba6be4e0.md){:target="\_blank"}
 
 [A Securities Law Framework for Blockchain Tokens - Under US Federal Securities Law](https://docs.google.com/spreadsheets/d/1_XlGPsAywzoxpQmrEJuKYQhp2nr1u0ySCe426qkZmog/edit?usp=sharing){:target="\_blank"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z6HS1bSZzHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
