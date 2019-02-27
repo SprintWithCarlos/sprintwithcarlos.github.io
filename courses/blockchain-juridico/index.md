@@ -179,4 +179,6 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 
 [A Securities Law Framework for Blockchain Tokens - Under US Federal Securities Law](https://docs.google.com/spreadsheets/d/1_XlGPsAywzoxpQmrEJuKYQhp2nr1u0ySCe426qkZmog/edit?usp=sharing){:target="\_blank"}
 
-<iframe src="https://www.youtube.com/embed/RplnSVTzvnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+<iframe width="800" height="500" src="https://www.youtube.com/embed/RplnSVTzvnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
