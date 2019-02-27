@@ -121,11 +121,11 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 
 ## LegalTech
 
-[Clerky | The easiest way for startups to get legal paperwork done safely.](https://www.clerky.com/){:target="\_blank"}
+[Clerky - The easiest way for startups to get legal paperwork done safely.](https://www.clerky.com/){:target="\_blank"}
 
 [2019 Global Legal Hackathon](https://globallegalhackathon.com/){:target="\_blank"}
 
-![](-cb8aace3-caf6-40b2-9a74-48542029e185untitled)
+[<img src="-cb8aace3-caf6-40b2-9a74-48542029e185untitled">](https://www.amazon.com/Tomorrows-Lawyers-Introduction-Your-Future/dp/0198796633/ref=sr_1_1?keywords=tomorrow+lawyers&qid=1551226180&s=gateway&sr=8-1){:target="\_blank"}
 
 [Primeras sanciones en aplicación del RGPD en Portugal](https://www.garrigues.com/es_ES/garrigues-digital/primeras-sanciones-en-aplicacion-del-rgpd-en-portugal){:target="\_blank"}
 
@@ -135,8 +135,8 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 
 [Criptomonedas y 33 proyectos blockchain asesorados por CNMV](./Criptomonedas-y-33-proyectos-blockchain-asesorados-8379149d-6a1e-43f0-a09e-acd8d83e7e0d.md){:target="\_blank"}
 
-[The Untold Story of Silk Road, Part 1 | WIRED](./The-Untold-Story-of-Silk-Road-Part-1-WIRED-4bc62011-3449-44cd-933a-a8310b189935.md)
+[The Untold Story of Silk Road, Part 1 - WIRED](./The-Untold-Story-of-Silk-Road-Part-1-WIRED-4bc62011-3449-44cd-933a-a8310b189935.md)
 
-[The Untold Story of Silk Road, Part 2: The Fall | WIRED](./The-Untold-Story-of-Silk-Road-Part-2-The-Fall-WIRE-2bc56d15-e351-4a3f-9186-06d9ba6be4e0.md){:target="\_blank"}
+[The Untold Story of Silk Road, Part 2: The Fall - WIRED](./The-Untold-Story-of-Silk-Road-Part-2-The-Fall-WIRE-2bc56d15-e351-4a3f-9186-06d9ba6be4e0.md){:target="\_blank"}
 
 [A Securities Law Framework for Blockchain Tokens - Under US Federal Securities Law](https://docs.google.com/spreadsheets/d/1_XlGPsAywzoxpQmrEJuKYQhp2nr1u0ySCe426qkZmog/edit?usp=sharing){:target="\_blank"}
