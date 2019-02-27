@@ -2,7 +2,7 @@
 
 ![](bc2-7e65fe46-efc2-43b1-9ae8-41b200ae5882.png)
 
-[<img src="slide-preview.jpg">](https://slides.com/sprintwithcarlos/imaguru-blockchain-abogados/#/)
+[<img src="slide-preview.jpg">](https://slides.com/sprintwithcarlos/imaguru-blockchain-abogados/#/){:target="\_blank"}
 Slides &#9757;
 
 # Descripción
