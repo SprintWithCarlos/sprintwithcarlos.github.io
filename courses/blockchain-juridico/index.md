@@ -163,6 +163,12 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 ![](ethereum.png)
 [Ethereum Competitors: Guide to the Alternative Smart Contract Platforms](https://blockonomi.com/ethereum-competitors/){:target="\_blank"}
 
+![](https://cdn-images-1.medium.com/max/800/1*krWy9mpDnh3UkYbawuPWzw.png)
+[Rootstock — Smart Contracts on the Bitcoin Blockchain](https://medium.com/@CryptoIQ.ca/rootstock-smart-contracts-on-the-bitcoin-blockchain-e52b065421a8){:target="\_blank"}
+
+![](oblb_new_logo-bbc4d24b-0aba-457b-955a-2fbcd56b9353.png)
+[Central Bank Digital Currencies: Preliminary Legal Observations - Oxford Law Faculty](Central-Bank-Digital-Currencies-Preliminary-Legal--ab4e7502-ca75-4f4d-8c26-5afa52b7b459.md){:target="\_blank"}
+
 ![](silk_road_tablet_H-3a170121-fda3-4e5e-be5d-18bfcda22297.jpg)
 
 [The Untold Story of Silk Road, Part 1 - WIRED](./The-Untold-Story-of-Silk-Road-Part-1-WIRED-4bc62011-3449-44cd-933a-a8310b189935.md){:target="\_blank"}
