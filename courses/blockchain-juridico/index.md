@@ -126,6 +126,14 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 
 [Aragon](https://aragon.org/){:target="\_blank"}
 
+---
+
+#Próximos Eventos
+
+[<img src="blockchain-event.png">](https://events.technologyreview.com/presents/business-of-blockchain/2019/?discount=BB19HOUSE1)
+
+---
+
 # Recursos
 
 ## LegalTech
