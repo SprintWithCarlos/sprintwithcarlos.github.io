@@ -7,7 +7,7 @@
 💻 [Quiz App Trivia C++](https://gist.github.com/cmarchena/7c75d6755b3211661f9e272dce14ede9)
 
 # Cursos
-[Fundamentos programación](https://github.com/SprintWithCarlos/coding-classes/tree/master/modulos/coding-101)
+[Fundamentos programación](https://github.com/SprintWithCarlos/coding-classes/tree/master/modulos/coding-101)<br/>
 [Fullstack Javascript: Express, MongoDB, SQL, React, Vue y Angular](https://github.com/SprintWithCarlos/coding-classes)
 
 # Contacto
