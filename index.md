@@ -5,8 +5,8 @@
 💻 [Quiz App Trivia C++](https://gist.github.com/cmarchena/7c75d6755b3211661f9e272dce14ede9)
 
 # Courses
-[Fundamentos programación](https://github.com/SprintWithCarlos/coding-classes/tree/master/modulos/coding-101)<br/>
-[Fullstack Javascript: Express, MongoDB, SQL, React, Vue y Angular](https://github.com/SprintWithCarlos/coding-classes)
+* [Fundamentos programación](https://github.com/SprintWithCarlos/coding-classes/tree/master/modulos/coding-101). (In Spanish)
+* [Fullstack Javascript: Express, MongoDB, SQL, React, Vue y Angular](https://github.com/SprintWithCarlos/coding-classes) (In Spanish)
 
 # References  
 * [The Future of Employment: How Susceptible Are Jobs to Computerization?" by Carl Frey and Michael Osborne. University of Oxford](https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)
