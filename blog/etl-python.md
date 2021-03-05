@@ -64,7 +64,7 @@ Once completed this step you can check table "my_played_tracks":
 ```bash
 sqlite3
 ```
-```sqlite
+```
 sqlite > .open my_played_tracks.sqlite
 sqlite > select * from my_played_tracks;
 Just A Lover|Hayden James|2021-03-03T19:48:52.589Z|2021-03-03
