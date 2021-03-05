@@ -82,8 +82,8 @@ Un Veneno - G-Mix|C. Tangana|2021-03-03T19:10:22.709Z|2021-03-03
 Nominao|C. Tangana|2021-03-03T19:05:43.191Z|2021-03-03
 Ingobernable|C. Tangana|2021-03-03T19:02:46.900Z|2021-03-03
 Párteme La Cara|C. Tangana|2021-03-03T18:59:39.944Z|2021-03
-
 ```
+
 With this last step our ETL is completed. We have downloaded, validated and saved data from a vendor to our database. There are multiple variations of this process, please let me know if you want to explore a different setup. i.e saving to a non relational database in the cloud.
 
 ## Optional: Scheduling the ETL Process with Cron Jobs
