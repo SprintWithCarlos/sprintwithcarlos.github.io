@@ -61,10 +61,10 @@ Data valid, proceed to Load stage
 ## Extract
 The goal of this stage is to save the data in our database, which in this case is SQLite.
 Once completed this step you can check table "my_played_tracks":
-```bash
+```bash  
 sqlite3
 ```
-```
+```bash  
 sqlite > .open my_played_tracks.sqlite
 sqlite > select * from my_played_tracks;
 Just A Lover|Hayden James|2021-03-03T19:48:52.589Z|2021-03-03
