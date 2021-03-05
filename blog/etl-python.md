@@ -88,5 +88,5 @@ With this last step our ETL is completed. We have downloaded, validated and save
 
 ## Optional: Scheduling the ETL Process with Cron Jobs
 Instead of triggering the code every 24 hours we can automate this step.
-In this particular case we have use the schedule library, so while the program is running it will trigger each day at 00:00. Details in the code.
+In this particular case we used the schedule library, so while the program is running it will trigger each day at 00:00. Details in the code.
 
