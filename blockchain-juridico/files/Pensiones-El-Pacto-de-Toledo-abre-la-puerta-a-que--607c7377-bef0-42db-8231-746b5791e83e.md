@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Pensiones: El Pacto de Toledo abre la puerta a que los robots financien las pensiones
 
 [https://www.elconfidencial.com/economia/2019-02-19/pacto-toledo-cotizacion-robots-seguridad-social_1833498/](https://www.elconfidencial.com/economia/2019-02-19/pacto-toledo-cotizacion-robots-seguridad-social_1833498/)

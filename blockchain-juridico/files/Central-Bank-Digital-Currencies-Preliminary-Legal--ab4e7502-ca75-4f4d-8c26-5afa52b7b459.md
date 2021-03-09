@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Central Bank Digital Currencies: Preliminary Legal Observations | Oxford Law Faculty
 
 [https://www.law.ox.ac.uk/business-law-blog/blog/2019/02/central-bank-digital-currencies-preliminary-legal-observations](https://www.law.ox.ac.uk/business-law-blog/blog/2019/02/central-bank-digital-currencies-preliminary-legal-observations)

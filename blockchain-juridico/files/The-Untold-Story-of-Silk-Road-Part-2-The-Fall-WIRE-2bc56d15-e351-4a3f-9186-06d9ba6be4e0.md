@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # The Untold Story of Silk Road, Part 2: The Fall | WIRED
 
 [https://www.wired.com/2015/05/silk-road-2/](https://www.wired.com/2015/05/silk-road-2/)

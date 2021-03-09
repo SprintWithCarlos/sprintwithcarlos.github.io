@@ -1,8 +1,23 @@
-![law code man seated writing](../media/img/swc.png)
-***
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+---
+![law code man seated writing](../assets/img/swc.png)
+---
+# Blog
+
+<ul>
+  {% for post in site.categories.es %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 # Documentos
 
-&#128073; [Blockchain: Aspectos Jurídicos](https://SprintWithCarlos.github.io/courses/blockchain-juridico/)
+&#128073; [Blockchain: Aspectos Jurídicos](/blockchain-juridico/)
 
 # C++
 💻 [Calculadora IRPF](https://gist.github.com/cmarchena/0a19ea91c0a7fd4d2d31ee49168412cd)<br/>
@@ -12,8 +27,8 @@
 1. [Fundamentos programación](https://github.com/SprintWithCarlos/coding-classes/tree/master/modulos/coding-101)
 2. [Fullstack Javascript: Express, MongoDB, SQL, React, Vue y Angular](https://github.com/SprintWithCarlos/coding-classes)
 
-# Contacto
-sprintwithcarlos @ pm.me
+# [Contacto](/es/contacto)
 
-[English Version](./index.md)
+
+[English Version](/)
 

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # The Untold Story of Silk Road, Part 1 | WIRED
 
 [https://www.wired.com/2015/04/silk-road-1/](https://www.wired.com/2015/04/silk-road-1/)

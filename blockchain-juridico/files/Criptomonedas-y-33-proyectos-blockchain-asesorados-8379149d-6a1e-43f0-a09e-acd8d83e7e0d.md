@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Criptomonedas y 33 proyectos blockchain asesorados por CNMV
 
 [https://www.blockchaineconomia.es/criptomonedas-blockchain-cnmv/](https://www.blockchaineconomia.es/criptomonedas-blockchain-cnmv/)

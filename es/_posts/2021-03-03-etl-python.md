@@ -1,28 +1,33 @@
-# Spotify Data ETL with Python
-_Wed 03 2021_
-\#datascience
+---
+layout: post
+title: ETL de datos de Spotify con Python
+tag: datascience
+---
 
-Based on [Karolina Sowinska](https://github.com/karolina-sowinska) tutorial
-Link to [repo](https://github.com/SprintWithCarlos/etl-python-spotify). You can clone or fork it at your will.
+
+{{page.tag}}
+
+
+
+Basado en el tutorial de [Karolina Sowinska](https://github.com/karolina-sowinska)  
+Link a mi [repo](https://github.com/SprintWithCarlos/etl-python-spotify). Puedes clonar o hacer fork.
 
 ## Preparation
-* [ ] Getting Spotify token on this [link](https://developer.spotify.com/console/get-recently-played/)  
-## Extract
-Extract means to download or obtain data from vendor. In this case we will get the data by calling an API.
-We will use requests library to call Spotify API. **Recommended**: Create a virtual environment for dependencies using conda. Activate it and install dependencies
+* [ ] Obtén el token de Spotify en este [link](https://developer.spotify.com/console/get-recently-played/)  
+
+## Extraer
+Extraer significa descargar u obtener datos del proveedor. En este caso, obtendremos los datos llamando a una API. Usaremos requests library para llamar a la API de Spotify. **Recomendado**: crea un entorno virtual para dependencias usando conda. Activarlo e instalar dependencias
 ```
 conda create -n etl python=3 anaconda -y
 source activate etl
 conda install sqlalchemy pandas requests -y
 conda install -c conda-forge python-dotenv schedule -y
 ```
-If you get this error:
+Si se genera este error:
 ```
 {'error': {'status': 401, 'message': 'The access token expired'}}
 ````
-Just reissue the token at Spotify. It expires very fast.
-Once you run the script you will have a data frame with the first 20 songs you listened to in the last 24 hours.
-Example:
+Simplemente vuelve a generar el token en Spotify. Caduca muy rápido. Una vez que ejecutes el script, tendrás un data frame con las primeras 20 canciones que escuchaste en las últimas 24 horas. Ejemplo:
 ```
                    song_name  artlist_name                 played_at   timestamp
 0   Ahora - Directo Acústico        Estopa  2021-03-04T16:51:58.535Z  2021-03-04
@@ -46,21 +51,22 @@ Example:
 18   Tú Me Dejaste De Querer    C. Tangana  2021-03-03T18:50:13.927Z  2021-03-03
 19        Demasiadas Mujeres    C. Tangana  2021-03-03T18:46:55.615Z  2021-03-03
 ```
-Once you got this data the extract stage is completed.
-## Load
-Load means validate the data to ensure quality.
-We will create a function to which we will pass a data frame as parameter to check:
-* If dataframe is empty
-* That there are no duplicates
-* No nulls
-* No data out of the specific time frame (last 24 hours)
-If everything ok, the check will return the following message:
+Una vez obtengas estos datos, habrás completado la etapa de extracción.
+## Transformar (Transform)
+Transformar significa validar los datos para garantizar la calidad. Crearemos una función a la que le pasaremos un data frame como parámetro para comprobar:
+
+* Si el data frame está vacío
+* Que no hay duplicados
+* Que no hay nulos
+* No hay datos fuera del período de tiempo específico (últimas 24 horas) 
+
+Si todo está bien, la verificación devolverá el siguiente mensaje:
 ```
-Data valid, proceed to Load stage
+Datos válidos, pasar a la etapa de carga
 ```
-## Extract
-The goal of this stage is to save the data in our database, which in this case is SQLite.
-Once completed this step you can check table "my_played_tracks":
+## Cargar (Load)
+El objetivo de esta etapa es guardar los datos en nuestra base de datos, que en este caso es SQLite. Una vez completado este paso, puede consultar la tabla "my_played_tracks":
+
 ```bash  
 sqlite3
 ```
@@ -84,9 +90,9 @@ Ingobernable|C. Tangana|2021-03-03T19:02:46.900Z|2021-03-03
 Párteme La Cara|C. Tangana|2021-03-03T18:59:39.944Z|2021-03
 ```
 
-With this last step our ETL is completed. We have downloaded, validated and saved data from a vendor to our database. There are multiple variations of this process, please let me know if you want to explore a different setup. i.e saving to a non relational database in the cloud.
+Con este último paso se completa nuestro ETL. Hemos descargado, validado y guardado datos de un proveedor en nuestra base de datos. Hay varias variaciones de este proceso, si desea explorar una configuración diferente puedes consultarme según explico en [Contacto]({{site.url}}/es/contacto). Por ejemplo, guardar en una base de datos no relacional en la nube.
 
-## Optional: Scheduling the ETL Process with Cron Jobs
-Instead of triggering the code every 24 hours we can automate this step.
-In this particular case we used the schedule library, so while the program is running it will trigger each day at 00:00. Details in the code.
+## Opcional: programar el proceso ETL con trabajos cron
+En lugar de correr el código cada 24 horas, podemos automatizar este paso. En este caso particular, usamos shcedule library, de tal manera que mientras el programa se esté ejecutando, se activará cada día a las 00:00. Detalles en el código.
 
+## Happy Coding!  👩‍💻 👨‍💻

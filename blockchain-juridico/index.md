@@ -1,6 +1,13 @@
-# Blockchain: aspectos jurídicos
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-![](bc2-7e65fe46-efc2-43b1-9ae8-41b200ae5882.png)
+layout: page
+title: "Blockchain: aspectos jurídicos"
+---
+
+
+![](./files/bc2-7e65fe46-efc2-43b1-9ae8-41b200ae5882.png)
 
 # Descripción
 
@@ -18,7 +25,7 @@ El formato será de dos sesiones informativas y una sesión de preguntas y respu
 
 Si quieres conocer la respuesta a todas estas preguntas, acompáñanos en este evento y únete a nuestra comunidad de entusiastas de la tecnología Imaguru Startup Hub
 
-[<img src="slide-preview.jpg">](https://slides.com/sprintwithcarlos/imaguru-blockchain-abogados/#/){:target="\_blank"}
+[<img src="./files/slide-preview.jpg">](https://slides.com/sprintwithcarlos/imaguru-blockchain-abogados/#/){:target="\_blank"}
 Slides &#9757;
 
 ---
@@ -48,7 +55,7 @@ El objetivo de este día es analizar cómo se han adaptado las principales insti
 
 Definición de **Nick Szabo** - Diferencias entre Web Code / Dry Code
 
-![](smart.png)
+![](./files/smart.png)
 
 [Wet code and dry](https://unenumerated.blogspot.com/2006/11/wet-code-and-dry.html){:target="\_blank"}
 
@@ -76,27 +83,27 @@ a los profesionales del sector financiero - 8 de febrero de 2018](comunicadoCNMV
 ## Derecho de familia
 
 Prueba de concepto: registro de nacimiento en blockchain
-![](unicef.png)
+![](./files/unicef.png)
 [1 de cada 3 niños menores de cinco años no existe porque no se ha registrado su nacimiento](https://www.unicef.es/noticia/registro-de-nacimiento-1-de-cada-3-ninos-no-existe-oficialmente){:target="\_blank"}
 
 ## Herencia y Testamentos
 
 Prueba de concepto: Testamento ológrafo abierto vía smart contract
-![](testamento.png)
+![](./files/testamento.png)
 
 [Regulación del testamento ológrafo abierto](http://noticias.juridicas.com/base_datos/Privado/cc.l3t3.html#t3c1){:target="\_blank"}
 
 ## Derecho Inmobiliario
 
 Prueba de concepto: Registro de la Propiedad en blockchain
-![](registro.png)
+![](./files/registro.png)
 
 ["Los registradores de la propiedad no tememos la tecnología blockchain"](https://www.blockchaineconomia.es/registradores-de-la-propiedad-blockchain/){:target="\_blank"}
 
 ## Derecho Bancario
 
 Prueba de concepto: Proceso de debida diligencia (alta del cliente) asistido por identidad digital soberana (Alastria ID)
-![](alastria.png)
+![](./files/alastria.png)
 
 [Presentación Alastria Identidad](Alastria-Identidad-a3d17ec1-1495-441e-bd3d-3ce1982f1d28.pdf){:target="\_blank"}
 
@@ -122,7 +129,7 @@ Prueba de concepto: blockchain para la "Gig Economy" ("Uberización")
 ## PYME
 
 Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
-![](aragon.png)
+![](./files/aragon.png)
 
 [Aragon](https://aragon.org/){:target="\_blank"}
 
@@ -130,7 +137,7 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 
 #Próximos Eventos
 
-[<img src="blockchain-event.png">](https://events.technologyreview.com/presents/business-of-blockchain/2019/?discount=BB19HOUSE1)
+[<img src="./files/blockchain-event.png">](https://events.technologyreview.com/presents/business-of-blockchain/2019/?discount=BB19HOUSE1)
 
 ---
 
@@ -138,40 +145,40 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 
 ## LegalTech
 
-![](clerky.png)
+![](./files/clerky.png)
 
 [Clerky - The easiest way for startups to get legal paperwork done safely.](https://www.clerky.com/){:target="\_blank"}
 
-![](glh.png)
+![](./files/glh.png)
 
 [2019 Global Legal Hackathon](https://globallegalhackathon.com/){:target="\_blank"}
 
 <p align="center">
-<a href="https://www.amazon.com/Tomorrows-Lawyers-Introduction-Your-Future/dp/0198796633/ref=sr_1_1?keywords=tomorrow+lawyers&qid=1551226180&s=gateway&sr=8-1)" target="_blank"><img src="-cb8aace3-caf6-40b2-9a74-48542029e185untitled"></a></p>
+<a href="https://www.amazon.com/Tomorrows-Lawyers-Introduction-Your-Future/dp/0198796633/ref=sr_1_1?keywords=tomorrow+lawyers&qid=1551226180&s=gateway&sr=8-1)" target="_blank"><img src="./files/-cb8aace3-caf6-40b2-9a74-48542029e185untitled"></a></p>
 
-![](rgpd.jpg)
+![](./files/rgpd.jpg)
 
 [Primeras sanciones en aplicación del RGPD en Portugal](https://www.garrigues.com/es_ES/garrigues-digital/primeras-sanciones-en-aplicacion-del-rgpd-en-portugal){:target="\_blank"}
 
-![](flixxo.png)
+![](./files/flixxo.png)
 
 [Flixxo - Community based video distribution.](https://flixxo.com/#/){:target="\_blank"}
 
 ![](https://www.ecestaticos.com/imagestatic/clipping/2f3/28e/2f328ef14cd42d02835d6c2164ea998e/imagen-sin-titulo.jpg?mtime=1550526461)
 
-[Pensiones: El Pacto de Toledo abre la puerta a que los robots financien las pensiones](./Pensiones-El-Pacto-de-Toledo-abre-la-puerta-a-que--607c7377-bef0-42db-8231-746b5791e83e.md){:target="\_blank"}
+[Pensiones: El Pacto de Toledo abre la puerta a que los robots financien las pensiones](./files/Pensiones-El-Pacto-de-Toledo-abre-la-puerta-a-que--607c7377-bef0-42db-8231-746b5791e83e.md){:target="\_blank"}
 
 <p align="center">
-<img src="CNMV-y-bandera-UE-0e960492-67ef-4857-be44-56b69dfb54f2.jpg">
+<img src="./files/CNMV-y-bandera-UE-0e960492-67ef-4857-be44-56b69dfb54f2.jpg">
 </p>
 
-[Criptomonedas y 33 proyectos blockchain asesorados por CNMV](./Criptomonedas-y-33-proyectos-blockchain-asesorados-8379149d-6a1e-43f0-a09e-acd8d83e7e0d.md){:target="\_blank"}
+[Criptomonedas y 33 proyectos blockchain asesorados por CNMV](./files/Criptomonedas-y-33-proyectos-blockchain-asesorados-8379149d-6a1e-43f0-a09e-acd8d83e7e0d.md){:target="\_blank"}
 
 ![](https://img.nh-hotels.net/landing_pages-slider_landing_fastpass.jpg)
 
 [NH Hotel Group presenta FASTPASS: Checkout automático](https://www.nh-hoteles.es/experiencia/fast-pass){:target="\_blank"}
 
-![](ethereum.png)
+![](./files/ethereum.png)
 [Ethereum Competitors: Guide to the Alternative Smart Contract Platforms](https://blockonomi.com/ethereum-competitors/){:target="\_blank"}
 
 <p align="center">
@@ -180,16 +187,16 @@ Prueba de concepto: Decentralized Autonomous Organizations (DAO's)
 
 [Rootstock — Smart Contracts on the Bitcoin Blockchain](https://medium.com/@CryptoIQ.ca/rootstock-smart-contracts-on-the-bitcoin-blockchain-e52b065421a8){:target="\_blank"}
 
-![](oblb_new_logo-bbc4d24b-0aba-457b-955a-2fbcd56b9353.png)
+![](./files/oblb_new_logo-bbc4d24b-0aba-457b-955a-2fbcd56b9353.png)
 [Central Bank Digital Currencies: Preliminary Legal Observations - Oxford Law Faculty](Central-Bank-Digital-Currencies-Preliminary-Legal--ab4e7502-ca75-4f4d-8c26-5afa52b7b459.md){:target="\_blank"}
 
-![](silk_road_tablet_H-3a170121-fda3-4e5e-be5d-18bfcda22297.jpg)
+![](./files/silk_road_tablet_H-3a170121-fda3-4e5e-be5d-18bfcda22297.jpg)
 
-[The Untold Story of Silk Road, Part 1 - WIRED](./The-Untold-Story-of-Silk-Road-Part-1-WIRED-4bc62011-3449-44cd-933a-a8310b189935.md){:target="\_blank"}
+[The Untold Story of Silk Road, Part 1 - WIRED](The-Untold-Story-of-Silk-Road-Part-1-WIRED-4bc62011-3449-44cd-933a-a8310b189935.md){:target="\_blank"}
 
-![](silk_road_tablet_H-4d5b7a19-bac1-40de-b9a5-9ffc294d0ad2.jpg)
+![](./files/silk_road_tablet_H-4d5b7a19-bac1-40de-b9a5-9ffc294d0ad2.jpg)
 
-[The Untold Story of Silk Road, Part 2: The Fall - WIRED](./The-Untold-Story-of-Silk-Road-Part-2-The-Fall-WIRE-2bc56d15-e351-4a3f-9186-06d9ba6be4e0.md){:target="\_blank"}
+[The Untold Story of Silk Road, Part 2: The Fall - WIRED](The-Untold-Story-of-Silk-Road-Part-2-The-Fall-WIRE-2bc56d15-e351-4a3f-9186-06d9ba6be4e0.md){:target="\_blank"}
 
 [A Securities Law Framework for Blockchain Tokens - Under US Federal Securities Law](https://docs.google.com/spreadsheets/d/1_XlGPsAywzoxpQmrEJuKYQhp2nr1u0ySCe426qkZmog/edit?usp=sharing){:target="\_blank"}
 
