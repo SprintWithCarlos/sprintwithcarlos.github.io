@@ -7,7 +7,7 @@ tags: en
 _Wed 03 2021_
 \#datascience
 
-Based on [Karolina Sowinska](https://github.com/karolina-sowinska) tutorial
+Based on [Karolina Sowinska](https://github.com/karolina-sowinska) tutorial  
 Link to [repo](https://github.com/SprintWithCarlos/etl-python-spotify). You can clone or fork it at your will.
 
 ## Preparation

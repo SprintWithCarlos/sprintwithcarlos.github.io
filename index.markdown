@@ -18,6 +18,9 @@ layout: page
 💻 [IRP Calculator](https://gist.github.com/cmarchena/0a19ea91c0a7fd4d2d31ee49168412cd)<br/>
 💻 [Quiz App Trivia C++](https://gist.github.com/cmarchena/7c75d6755b3211661f9e272dce14ede9)
 
+# JavaScript
+💻 [Color Array Challenge](https://gist.github.com/cmarchena/6c8e2aae28b813b1c4042ec206b9d94b)
+
 # Courses
 * [Fundamentos programación](https://github.com/SprintWithCarlos/coding-classes/tree/master/modulos/coding-101). (In Spanish)
 * [Fullstack Javascript: Express, MongoDB, SQL, React, Vue y Angular](https://github.com/SprintWithCarlos/coding-classes) (In Spanish)

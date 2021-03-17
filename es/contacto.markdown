@@ -7,7 +7,7 @@ title: Contacto
 
 Luego de 10 años de carrera como abogado decidí que quería estar al frente de una empresa, en contacto directo con los clientes, entendiendo sus necesidades y generando valor para ellos. Por ellos en 2014 decidí darle un giro
 a mi vida y ahora me dedico a lo que más me gusta: crear soluciones para los problemas y necesidades reales de mis clientes, soluciones que sean técnicamente factibles y financieramente viables.  
- [**Instagram**](https://www.instagram.com/sprintwithcarlos/)|[**Twitter**](https://www.twitter.com/sprintwithcarl1/)| [**Github**](https://www.github.com/sprintwithcarlos/)
+ [**Instagram**](https://www.instagram.com/sprintwithcarlos/)|[**Twitter**](https://www.twitter.com/sprintwithcarl1/)|[**Github**](https://www.github.com/sprintwithcarlos/)
 
 
 # **Tutorías**
