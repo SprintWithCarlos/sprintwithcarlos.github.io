@@ -27,8 +27,8 @@ layout: page
 💻 [Color Array Challenge](https://gist.github.com/cmarchena/6c8e2aae28b813b1c4042ec206b9d94b)
 
 # Cursos
-1. [Fundamentos programación](https://github.com/SprintWithCarlos/coding-classes/tree/master/modulos/coding-101)
-2. [Fullstack Javascript: Express, MongoDB, SQL, React, Vue y Angular](https://github.com/SprintWithCarlos/coding-classes)
+1. [Fundamentos programación](https://github.com/SprintWithCarlos/coding-classes/blob/master/modulos/semana01/semana01-clases.md)
+2. [Fullstack Javascript: Express, MongoDB, SQL, React, Vue y Angular](https://github.com/SprintWithCarlos/coding-classes/blob/master/modulos/intro.md)
 
 # [Contacto](/es/contacto)
 
