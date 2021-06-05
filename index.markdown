@@ -4,9 +4,11 @@
 
 layout: page
 ---
-[![law code man seated writing](./assets/img/swc.png)](./assets/img/swc.png)
----
+
+## [![law code man seated writing](./assets/img/swc.png)](./assets/img/swc.png)
+
 # Blog
+
 <ul>
   {% for post in site.tags.en %}
     <li>
@@ -19,16 +21,23 @@ layout: page
 💻 [Quiz App Trivia C++](https://gist.github.com/cmarchena/7c75d6755b3211661f9e272dce14ede9)
 
 # JavaScript
+
 💻 [Color Array Challenge](https://gist.github.com/cmarchena/6c8e2aae28b813b1c4042ec206b9d94b)
 
 # Courses
-* [Fundamentos programación](https://github.com/SprintWithCarlos/coding-classes/tree/master/modulos/coding-101). (In Spanish)
-* [Fullstack Javascript: Express, MongoDB, SQL, React, Vue y Angular](https://github.com/SprintWithCarlos/coding-classes) (In Spanish)
 
-# References  
-* [The Future of Employment: How Susceptible Are Jobs to Computerization?" by Carl Frey and Michael Osborne. University of Oxford](https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)
-* [Find Out If Your Job Will Be Automated
-By Mark Whitehouse and Mira Rojanasakul](https://www.bloomberg.com/graphics/2017-job-risk/)  
+- [Fundamentos programación](https://github.com/SprintWithCarlos/coding-classes/tree/master/modulos/coding-101). (In Spanish)
+- [Fullstack Javascript: Express, MongoDB, SQL, React, Vue y Angular](https://github.com/SprintWithCarlos/coding-classes) (In Spanish)
+
+# Papers
+
+- [Economic effects on migration](./assets/media/IEpaper.pdf)
+
+# References
+
+- [The Future of Employment: How Susceptible Are Jobs to Computerization?" by Carl Frey and Michael Osborne. University of Oxford](https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)
+- [Find Out If Your Job Will Be Automated
+  By Mark Whitehouse and Mira Rojanasakul](https://www.bloomberg.com/graphics/2017-job-risk/)
 
 # [Contact](/contact)
 
