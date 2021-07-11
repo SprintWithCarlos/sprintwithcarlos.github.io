@@ -22,6 +22,8 @@ layout: page
 
 # JavaScript
 
+[Link Previewer](https://link-previewer.onrender.com)
+[Image Uploader](https://client-nixu.onrender.com)
 💻 [Color Array Challenge](https://gist.github.com/cmarchena/6c8e2aae28b813b1c4042ec206b9d94b)
 
 # Courses
